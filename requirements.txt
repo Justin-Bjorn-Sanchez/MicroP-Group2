@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+# Only needed for:  python app.py --export
+onnx
+onnxslim
